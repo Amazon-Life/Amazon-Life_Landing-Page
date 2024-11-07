@@ -23,10 +23,12 @@
 
 //Principales caracteristicas:
 
--Aplicativo fácil de usar
+-Interfaz amigable y accesible: Diseñada para ser fácil de usar, incluso para quienes no están familiarizados con aplicaciones de conservación ambiental.
 
--Visualmente atractivo
+-Diseño atractivo y funcional: La aplicación cuenta con un diseño visualmente agradable y bien estructurado, que permite una navegación sencilla e intuitiva.
 
--Intuitivo
+-Experiencia de usuario optimizada: La estructura intuitiva facilita el acceso a funciones clave, ayudando a los usuarios a realizar acciones sin complicaciones.
 
--Sstema de noticias y foros
+-Consejos y recomendaciones personalizadas: Ofrece recomendaciones adaptadas a las preferencias y necesidades de cada usuario, incentivando acciones positivas para la protección de la Amazonía.
+
+-Sistema de noticias y foros comunitarios: Mantiene a los usuarios informados con noticias relevantes y proporciona un espacio de discusión para compartir ideas, experiencias y consejos sobre temas de conservación ambiental.
