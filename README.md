@@ -29,8 +29,4 @@
 
 -Intuitivo
 
--Sistema de recompensas
-
--Recomendaciones y consejos personalizados
-
 -Sstema de noticias y foros
